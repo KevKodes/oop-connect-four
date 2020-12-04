@@ -37,6 +37,8 @@ document.addEventListener('DOMContentLoaded', () => {
     updateUI()
   })
 
+  document.getElementById('clicktargets').addEventListener()
+
 
 
 
